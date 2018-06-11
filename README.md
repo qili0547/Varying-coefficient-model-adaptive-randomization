@@ -31,4 +31,4 @@ mex *.c
 ------------------------------------------------
 Please refer to the paper:
 ------------------------------------------------
-Qi, L., Sun, Y. and Gilbert, P. B. (2016). Generalized Semiparametric Varying-Coefficient Model for Longitudinal Data with Applications to Adaptive Treatment Randomizations. To appear in Biometrics.
+Qi, L., Sun, Y. and Gilbert, P. B. (2016). Generalized Semiparametric Varying-Coeffifficient Model for Longitudinal Data with Applications to Adaptive Treatment Randomizations. To appear in Biometrics.
